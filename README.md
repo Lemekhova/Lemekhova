@@ -1,4 +1,4 @@
-## Hello, my name is Olga Lemekhova.
+## 👤 Hello, my name is Olga Lemekhova.
 
 I am a Data Analyst with experience across multiple industries, including construction and real estate. 
 
