@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, my name is Olga Lemekhova.
+
+I am a Data Analyst with experience across multiple industries, including construction and real estate. 
+
+My expertise lies at the intersection of urban planning analysis and big data analytics, combining insights from these fields to deliver impactful solutions.
 
 <!--
 **Lemekhova/Lemekhova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
