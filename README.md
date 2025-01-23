@@ -1,5 +1,4 @@
 # 👋 Hello, I'm a **Data Analyst** 
-with experience in:  
 - 📊 Big Data Analytics  
 - 🏗️ Construction and Real Estate industries  
 - 🗺️ Urban Planning and Statistical Analysis  
@@ -7,7 +6,7 @@ with experience in:
 ## 🔗 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-lemekhova/)  
 
-🌱 I'm currently learning advanced machine learning techniques! ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white)    
+🌱 I'm currently learning advanced ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white)!  
 📫 Feel free to connect and explore my projects.  
 
 ## 🛠️ Tech Stack  
