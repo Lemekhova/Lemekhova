@@ -1,6 +1,5 @@
-# 👋 Hello, I'm Olga Lemekhova!  
-
-I am a **Data Analyst** with experience in:  
+# 👋 Hello, I'm a **Data Analyst** 
+with experience in:  
 - 📊 Big Data Analytics  
 - 🏗️ Construction and Real Estate industries  
 - 🗺️ Urban Planning and Statistical Analysis  
